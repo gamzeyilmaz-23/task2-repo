@@ -1,1 +1,2 @@
 This is my first file for the version control assignment.
+This is the second line added to the example file.
