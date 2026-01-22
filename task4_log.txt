@@ -1,0 +1,13 @@
+b4bd02c Added line in feature branch
+5ad7b89 Added second line to example file
+8ba9b17 Initial commit with example file
+  feature-branch
+* main
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	task4_log.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
